@@ -1,0 +1,2 @@
+alert udp  $HOME_NET any -> any 9999 (msg:"GW LoRa"; classtype:not-suspicious; sid:2; rev:1;)
+
