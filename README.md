@@ -11,13 +11,13 @@ This was implemented and tested in a Linux machine with version Ubuntu 18.04.05 
 ## Use the LoRaWAN IDS:
 
 You need to install:
-- Suricata. I recommend the steps inside the documentation: 
+- **Suricata**. I recommend the steps inside the documentation: 
   - https://suricata.readthedocs.io/en/suricata-5.0.4/install.html
   
-- CrateDB. I recommend the steps inside the documentation: 
+- **CrateDB**. I recommend the steps inside the documentation: 
   - https://crate.io/docs/crate/howtos/en/latest/deployment/linux/ubuntu.html
   
-- Python3. I recommend this site:
+- **Python3**. I recommend this site:
   - https://phoenixnap.com/kb/how-to-install-python-3-ubuntu
 
 
