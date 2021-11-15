@@ -36,7 +36,7 @@ Subsequently, you have to create a folder to Python scripts and Lua libraries an
 
 You have to make sure that the variable `dir` inside of `local.lua` is pointing to the right dir of python scripts.
 
-Right now you are ready to launch the Suricata, you need to execute the next command in directory ~/IDS/lua/.
+Right now you are ready to launch the Suricata, you need to execute the next command in directory `~/IDS/lua/`.
 
     sudo suricata -c suricata.yaml -i ens33
 
